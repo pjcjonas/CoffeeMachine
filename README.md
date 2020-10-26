@@ -1,5 +1,5 @@
 # Interfaces - Coffee Style
-This is a very basic template the illustrates the use of Interfaces. PHP Interfaces are basically templates of methods that are required for a class.
+This is a template that illustrates the use of Interfaces. PHP Interfaces are basically templates of methods that are required for a class.
 
 ## Example
 ```php
